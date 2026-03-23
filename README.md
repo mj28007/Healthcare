@@ -1,2 +1,2 @@
 # Healthcare
-The US healthcare department has shared the hospital data for 100 hospitals which includes data like patient information, their admission information and the insurance information.
+The US healthcare department has shared the hospital data for 100 hospitals which includes data like patient information, their admission information and the insurance information.The top executives from the department have a few questions on the data and would like you to analyse and present your findings to them. The analysis should derive meaning actionable insights and the presentation should be clear, complete and concise.
