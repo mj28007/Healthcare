@@ -1,37 +1,37 @@
 # Healthcare
 
-**Overview**
+# Overview
 
 This project is part of a Healthcare Data Analysis case study completed during a course. It focuses on analyzing hospital data and building an interactive dashboard in Excel to derive meaningful insights.
 
-**Objective**
+# Objective
 
--Analyze the impact of demographics and admission types on healthcare costs
+1. Analyze the impact of demographics and admission types on healthcare costs.
 
--Identify patterns in medical conditions across patient groups
+2. Identify patterns in medical conditions across patient groups.
 
--Study admission trends for better resource planning
+3. Study admission trends for better resource planning.
 
-**Dashboard Highlights**
+# Dashboard Highlights
 
--KPI metrics: Total Patients, Avg Billing, Total Billing, Avg Stay
+1. KPI metrics: Total Patients, Avg Billing, Total Billing, Avg Stay.
 
--Billing analysis by Admission Type & Medication
+2. Billing analysis by Admission Type & Medication.
 
--Condition analysis by Gender & Age Groups
+3. Condition analysis by Gender & Age Groups.
 
--Time-series trends of admissions (2018–2023)
+4. Time-series trends of admissions (2018–2023).
 
--Heatmaps for cost, patient count, and hospital stay
+5. Heatmaps for cost, patient count, and hospital stay.
 
--Interactive slicers for dynamic filtering
+6. Interactive slicers for dynamic filtering.
 
-**Key Insights**
+# Key Insights
 
--Emergency admissions have higher average billing
+1. Emergency admissions have higher average billing.
 
--Cancer treatments are the most expensive
+2. Cancer treatments are the most expensive.
 
--Hypertension is among the most common conditions
+3. Hypertension is among the most common conditions.
 
--Admission trends show consistent fluctuations over time
+4. Admission trends show consistent fluctuations over time.
