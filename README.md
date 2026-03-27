@@ -2,7 +2,7 @@
 
 # Overview
 
-This project is part of a Healthcare Data Analysis case study completed during a course. It focuses on analyzing hospital data and building an interactive dashboard in Excel to derive meaningful insights.
+This project presents an interactive Healthcare Analytics Dashboard built using Microsoft Excel. It focuses on analyzing hospital data and building an interactive dashboard in Excel to derive meaningful insights.
 
 # Objective
 
